@@ -1,0 +1,300 @@
+07/28/2015, 18:51:14:597 : I am node: 1 and Entering in my Critical Section.
+07/28/2015, 18:51:14:615 : I am node: 1 and Exiting my Critical Section.
+
+07/28/2015, 18:51:14:677 : I am node: 3 and Entering in my Critical Section.
+07/28/2015, 18:51:14:696 : I am node: 3 and Exiting my Critical Section.
+
+07/28/2015, 18:51:14:729 : I am node: 4 and Entering in my Critical Section.
+07/28/2015, 18:51:14:747 : I am node: 4 and Exiting my Critical Section.
+
+07/28/2015, 18:51:14:755 : I am node: 7 and Entering in my Critical Section.
+07/28/2015, 18:51:14:771 : I am node: 7 and Exiting my Critical Section.
+
+07/28/2015, 18:51:14:782 : I am node: 8 and Entering in my Critical Section.
+07/28/2015, 18:51:14:799 : I am node: 8 and Exiting my Critical Section.
+
+07/28/2015, 18:51:14:848 : I am node: 9 and Entering in my Critical Section.
+07/28/2015, 18:51:14:865 : I am node: 9 and Exiting my Critical Section.
+
+07/28/2015, 18:51:14:871 : I am node: 7 and Entering in my Critical Section.
+07/28/2015, 18:51:14:878 : I am node: 7 and Exiting my Critical Section.
+
+07/28/2015, 18:51:14:894 : I am node: 6 and Entering in my Critical Section.
+07/28/2015, 18:51:14:911 : I am node: 6 and Exiting my Critical Section.
+
+07/28/2015, 18:51:14:920 : I am node: 5 and Entering in my Critical Section.
+07/28/2015, 18:51:14:941 : I am node: 5 and Exiting my Critical Section.
+
+07/28/2015, 18:51:14:952 : I am node: 2 and Entering in my Critical Section.
+07/28/2015, 18:51:14:972 : I am node: 2 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:47 : I am node: 5 and Entering in my Critical Section.
+07/28/2015, 18:51:15:54 : I am node: 5 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:62 : I am node: 6 and Entering in my Critical Section.
+07/28/2015, 18:51:15:70 : I am node: 6 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:80 : I am node: 1 and Entering in my Critical Section.
+07/28/2015, 18:51:15:86 : I am node: 1 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:94 : I am node: 4 and Entering in my Critical Section.
+07/28/2015, 18:51:15:103 : I am node: 4 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:111 : I am node: 3 and Entering in my Critical Section.
+07/28/2015, 18:51:15:122 : I am node: 3 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:170 : I am node: 10 and Entering in my Critical Section.
+07/28/2015, 18:51:15:192 : I am node: 10 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:264 : I am node: 7 and Entering in my Critical Section.
+07/28/2015, 18:51:15:274 : I am node: 7 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:281 : I am node: 9 and Entering in my Critical Section.
+07/28/2015, 18:51:15:286 : I am node: 9 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:294 : I am node: 8 and Entering in my Critical Section.
+07/28/2015, 18:51:15:300 : I am node: 8 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:335 : I am node: 8 and Entering in my Critical Section.
+07/28/2015, 18:51:15:354 : I am node: 8 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:361 : I am node: 9 and Entering in my Critical Section.
+07/28/2015, 18:51:15:376 : I am node: 9 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:387 : I am node: 4 and Entering in my Critical Section.
+07/28/2015, 18:51:15:392 : I am node: 4 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:400 : I am node: 1 and Entering in my Critical Section.
+07/28/2015, 18:51:15:430 : I am node: 1 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:436 : I am node: 6 and Entering in my Critical Section.
+07/28/2015, 18:51:15:449 : I am node: 6 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:458 : I am node: 5 and Entering in my Critical Section.
+07/28/2015, 18:51:15:464 : I am node: 5 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:474 : I am node: 2 and Entering in my Critical Section.
+07/28/2015, 18:51:15:478 : I am node: 2 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:542 : I am node: 2 and Entering in my Critical Section.
+07/28/2015, 18:51:15:549 : I am node: 2 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:560 : I am node: 5 and Entering in my Critical Section.
+07/28/2015, 18:51:15:566 : I am node: 5 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:575 : I am node: 6 and Entering in my Critical Section.
+07/28/2015, 18:51:15:584 : I am node: 6 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:592 : I am node: 1 and Entering in my Critical Section.
+07/28/2015, 18:51:15:597 : I am node: 1 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:610 : I am node: 3 and Entering in my Critical Section.
+07/28/2015, 18:51:15:622 : I am node: 3 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:657 : I am node: 4 and Entering in my Critical Section.
+07/28/2015, 18:51:15:679 : I am node: 4 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:687 : I am node: 7 and Entering in my Critical Section.
+07/28/2015, 18:51:15:694 : I am node: 7 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:702 : I am node: 10 and Entering in my Critical Section.
+07/28/2015, 18:51:15:716 : I am node: 10 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:765 : I am node: 9 and Entering in my Critical Section.
+07/28/2015, 18:51:15:777 : I am node: 9 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:784 : I am node: 8 and Entering in my Critical Section.
+07/28/2015, 18:51:15:790 : I am node: 8 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:832 : I am node: 9 and Entering in my Critical Section.
+07/28/2015, 18:51:15:836 : I am node: 9 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:843 : I am node: 7 and Entering in my Critical Section.
+07/28/2015, 18:51:15:847 : I am node: 7 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:865 : I am node: 1 and Entering in my Critical Section.
+07/28/2015, 18:51:15:876 : I am node: 1 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:884 : I am node: 6 and Entering in my Critical Section.
+07/28/2015, 18:51:15:905 : I am node: 6 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:914 : I am node: 5 and Entering in my Critical Section.
+07/28/2015, 18:51:15:922 : I am node: 5 and Exiting my Critical Section.
+
+07/28/2015, 18:51:15:936 : I am node: 2 and Entering in my Critical Section.
+07/28/2015, 18:51:15:953 : I am node: 2 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:7 : I am node: 5 and Entering in my Critical Section.
+07/28/2015, 18:51:16:21 : I am node: 5 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:30 : I am node: 6 and Entering in my Critical Section.
+07/28/2015, 18:51:16:37 : I am node: 6 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:48 : I am node: 1 and Entering in my Critical Section.
+07/28/2015, 18:51:16:57 : I am node: 1 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:65 : I am node: 4 and Entering in my Critical Section.
+07/28/2015, 18:51:16:72 : I am node: 4 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:79 : I am node: 3 and Entering in my Critical Section.
+07/28/2015, 18:51:16:88 : I am node: 3 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:138 : I am node: 10 and Entering in my Critical Section.
+07/28/2015, 18:51:16:148 : I am node: 10 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:194 : I am node: 7 and Entering in my Critical Section.
+07/28/2015, 18:51:16:198 : I am node: 7 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:204 : I am node: 9 and Entering in my Critical Section.
+07/28/2015, 18:51:16:209 : I am node: 9 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:217 : I am node: 8 and Entering in my Critical Section.
+07/28/2015, 18:51:16:221 : I am node: 8 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:271 : I am node: 9 and Entering in my Critical Section.
+07/28/2015, 18:51:16:275 : I am node: 9 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:286 : I am node: 4 and Entering in my Critical Section.
+07/28/2015, 18:51:16:292 : I am node: 4 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:303 : I am node: 1 and Entering in my Critical Section.
+07/28/2015, 18:51:16:310 : I am node: 1 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:319 : I am node: 6 and Entering in my Critical Section.
+07/28/2015, 18:51:16:329 : I am node: 6 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:338 : I am node: 5 and Entering in my Critical Section.
+07/28/2015, 18:51:16:349 : I am node: 5 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:360 : I am node: 2 and Entering in my Critical Section.
+07/28/2015, 18:51:16:384 : I am node: 2 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:435 : I am node: 5 and Entering in my Critical Section.
+07/28/2015, 18:51:16:450 : I am node: 5 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:459 : I am node: 6 and Entering in my Critical Section.
+07/28/2015, 18:51:16:481 : I am node: 6 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:488 : I am node: 1 and Entering in my Critical Section.
+07/28/2015, 18:51:16:499 : I am node: 1 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:512 : I am node: 3 and Entering in my Critical Section.
+07/28/2015, 18:51:16:522 : I am node: 3 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:600 : I am node: 4 and Entering in my Critical Section.
+07/28/2015, 18:51:16:609 : I am node: 4 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:619 : I am node: 7 and Entering in my Critical Section.
+07/28/2015, 18:51:16:647 : I am node: 7 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:655 : I am node: 10 and Entering in my Critical Section.
+07/28/2015, 18:51:16:662 : I am node: 10 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:721 : I am node: 9 and Entering in my Critical Section.
+07/28/2015, 18:51:16:731 : I am node: 9 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:744 : I am node: 8 and Entering in my Critical Section.
+07/28/2015, 18:51:16:758 : I am node: 8 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:791 : I am node: 9 and Entering in my Critical Section.
+07/28/2015, 18:51:16:798 : I am node: 9 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:805 : I am node: 7 and Entering in my Critical Section.
+07/28/2015, 18:51:16:817 : I am node: 7 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:827 : I am node: 1 and Entering in my Critical Section.
+07/28/2015, 18:51:16:835 : I am node: 1 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:842 : I am node: 6 and Entering in my Critical Section.
+07/28/2015, 18:51:16:849 : I am node: 6 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:857 : I am node: 5 and Entering in my Critical Section.
+07/28/2015, 18:51:16:864 : I am node: 5 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:878 : I am node: 2 and Entering in my Critical Section.
+07/28/2015, 18:51:16:882 : I am node: 2 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:918 : I am node: 2 and Entering in my Critical Section.
+07/28/2015, 18:51:16:922 : I am node: 2 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:967 : I am node: 5 and Entering in my Critical Section.
+07/28/2015, 18:51:16:980 : I am node: 5 and Exiting my Critical Section.
+
+07/28/2015, 18:51:16:987 : I am node: 6 and Entering in my Critical Section.
+07/28/2015, 18:51:17:1 : I am node: 6 and Exiting my Critical Section.
+
+07/28/2015, 18:51:17:9 : I am node: 1 and Entering in my Critical Section.
+07/28/2015, 18:51:17:25 : I am node: 1 and Exiting my Critical Section.
+
+07/28/2015, 18:51:17:32 : I am node: 4 and Entering in my Critical Section.
+07/28/2015, 18:51:17:35 : I am node: 4 and Exiting my Critical Section.
+
+07/28/2015, 18:51:17:43 : I am node: 3 and Entering in my Critical Section.
+07/28/2015, 18:51:17:47 : I am node: 3 and Exiting my Critical Section.
+
+07/28/2015, 18:51:17:95 : I am node: 10 and Entering in my Critical Section.
+07/28/2015, 18:51:17:102 : I am node: 10 and Exiting my Critical Section.
+
+07/28/2015, 18:51:17:164 : I am node: 7 and Entering in my Critical Section.
+07/28/2015, 18:51:17:168 : I am node: 7 and Exiting my Critical Section.
+
+07/28/2015, 18:51:17:174 : I am node: 9 and Entering in my Critical Section.
+07/28/2015, 18:51:17:178 : I am node: 9 and Exiting my Critical Section.
+
+07/28/2015, 18:51:17:186 : I am node: 8 and Entering in my Critical Section.
+07/28/2015, 18:51:17:195 : I am node: 8 and Exiting my Critical Section.
+
+07/28/2015, 18:51:17:233 : I am node: 8 and Entering in my Critical Section.
+07/28/2015, 18:51:17:242 : I am node: 8 and Exiting my Critical Section.
+
+07/28/2015, 18:51:17:295 : I am node: 4 and Entering in my Critical Section.
+07/28/2015, 18:51:17:299 : I am node: 4 and Exiting my Critical Section.
+
+07/28/2015, 18:51:17:323 : I am node: 2 and Entering in my Critical Section.
+07/28/2015, 18:51:17:332 : I am node: 2 and Exiting my Critical Section.
+
+07/28/2015, 18:51:17:410 : I am node: 3 and Entering in my Critical Section.
+07/28/2015, 18:51:17:417 : I am node: 3 and Exiting my Critical Section.
+
+07/28/2015, 18:51:17:499 : I am node: 4 and Entering in my Critical Section.
+07/28/2015, 18:51:17:504 : I am node: 4 and Exiting my Critical Section.
+
+07/28/2015, 18:51:17:512 : I am node: 7 and Entering in my Critical Section.
+07/28/2015, 18:51:17:522 : I am node: 7 and Exiting my Critical Section.
+
+07/28/2015, 18:51:17:531 : I am node: 10 and Entering in my Critical Section.
+07/28/2015, 18:51:17:538 : I am node: 10 and Exiting my Critical Section.
+
+07/28/2015, 18:51:17:594 : I am node: 8 and Entering in my Critical Section.
+07/28/2015, 18:51:17:598 : I am node: 8 and Exiting my Critical Section.
+
+07/28/2015, 18:51:17:689 : I am node: 2 and Entering in my Critical Section.
+07/28/2015, 18:51:17:695 : I am node: 2 and Exiting my Critical Section.
+
+07/28/2015, 18:51:17:767 : I am node: 3 and Entering in my Critical Section.
+07/28/2015, 18:51:17:772 : I am node: 3 and Exiting my Critical Section.
+
+07/28/2015, 18:51:17:830 : I am node: 10 and Entering in my Critical Section.
+07/28/2015, 18:51:17:847 : I am node: 10 and Exiting my Critical Section.
+
+07/28/2015, 18:51:17:912 : I am node: 8 and Entering in my Critical Section.
+07/28/2015, 18:51:17:923 : I am node: 8 and Exiting my Critical Section.
+
+07/28/2015, 18:51:17:980 : I am node: 2 and Entering in my Critical Section.
+07/28/2015, 18:51:17:992 : I am node: 2 and Exiting my Critical Section.
+
+07/28/2015, 18:51:18:55 : I am node: 3 and Entering in my Critical Section.
+07/28/2015, 18:51:18:69 : I am node: 3 and Exiting my Critical Section.
+
+07/28/2015, 18:51:18:119 : I am node: 10 and Entering in my Critical Section.
+07/28/2015, 18:51:18:126 : I am node: 10 and Exiting my Critical Section.
+
+07/28/2015, 18:51:18:193 : I am node: 3 and Entering in my Critical Section.
+07/28/2015, 18:51:18:199 : I am node: 3 and Exiting my Critical Section.
+
+07/28/2015, 18:51:18:237 : I am node: 10 and Entering in my Critical Section.
+07/28/2015, 18:51:18:243 : I am node: 10 and Exiting my Critical Section.
+
+07/28/2015, 18:51:18:280 : I am node: 10 and Entering in my Critical Section.
+07/28/2015, 18:51:18:291 : I am node: 10 and Exiting my Critical Section.
+
